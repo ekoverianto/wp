@@ -1,2 +1,2 @@
-# Weight Product Method
+# Weighted Product Method
 DSS: Weighted Product Method
